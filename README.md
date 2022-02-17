@@ -1,0 +1,2 @@
+- Hi! I'm Ashleigh.
+- I'm interested in coding/computer science, but particularly for the purposes of game design and development!
